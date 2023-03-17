@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "PostgreSQL",
+            "connectString": "postgres://emvxsaut:3taXrCbHtvd9vrNDtJjRHOSixdpy0Ooa@ruby.db.elephantsql.com/emvxsaut",
+            "name": "week4-day4"
+        }
+    ]
+}
